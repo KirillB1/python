@@ -1,0 +1,3 @@
+Informatics: 100 (lectures) 50 (practice) 20 (lab)
+Physics: 30 (lectures) 0 (practice) 10 (lab)
+PhysicalEducation: 0 (lectures) 0 (practice) 30 (lab)
